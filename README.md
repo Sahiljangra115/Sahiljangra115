@@ -62,10 +62,9 @@
 
 ###
 
-<!-- Optional: Add a brief about section -->
 <div align="center">
   <h3>🚀 About Me</h3>
-  <p>Passionate developer with experience in backend development, data science, and system administration</p>
-  <p>💻 Love working with Node.js, Python, and exploring machine learning with PyTorch</p>
-  <p>🐧 Linux enthusiast who enjoys automating tasks with bash scripts</p>
+  <p><b>Results-driven developer</b> with expertise in backend engineering, data science, and system architecture.</p>
+  <p><b>Proficient in Node.js and Python</b>; skilled in leveraging PyTorch for advanced machine learning solutions.</p>
+  <p><b>Linux power user</b> passionate about automation and optimizing workflows with robust bash scripting.</p>
 </div>
