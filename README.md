@@ -37,8 +37,8 @@
 
 ###
 
-<p align="center">
-  <a href="mailto:sahil115jangid@gmail.com.com">
+<!-- <p align="center">
+  <a href="mailto:sahil115jangid@gmail.com">
     <img src="gmail.svg" height="32" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/sahilkumar119/">
@@ -53,8 +53,7 @@
   <a href="https://dev.to/sahil_kumar">
     <img src="devdotto.svg" height="32" alt="dev.to" />
   </a>
-</p>
-
+</p> -->
 
 ###
 
