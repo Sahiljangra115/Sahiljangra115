@@ -4,7 +4,7 @@
 
 <!-- You can replace this URL with your custom image -->
 <div align="center">
-  <img src="https://your-custom-image-url-here.gif" width="300" alt="Your custom image/gif"  />
+  <img src="https://github.com/Sahiljangra115/Sahiljangra115/blob/main/name.png" width="300" alt="Your custom image/gif"  />
 </div>
 
 
