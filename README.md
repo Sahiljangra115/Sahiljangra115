@@ -37,23 +37,23 @@
 
 ###
 
-<!-- <p align="center">
+<p align="center">
   <a href="mailto:sahil115jangid@gmail.com">
-    <img src="gmail.svg" height="32" alt="Gmail" />
+    <img src="mail.svg" height="32" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/sahilkumar119/">
-    <img src="linkedin-rounded-svgrepo-com.svg" height="32" alt="LinkedIn" />
+    <img src="l.svg" height="32" alt="LinkedIn" />
   </a>
   <a href="https://x.com/arch_user_btw">
     <img src="x.svg" height="32" alt="X" />
   </a>
   <a href="https://discord.com/sahiljangid34">
-    <img src="discord.svg" height="32" alt="Discord" />
+    <img src="d.svg" height="32" alt="Discord" />
   </a>
   <a href="https://dev.to/sahil_kumar">
-    <img src="devdotto.svg" height="32" alt="dev.to" />
+    <img src="dev.svg" height="32" alt="dev.to" />
   </a>
-</p> -->
+</p>
 
 ###
 
