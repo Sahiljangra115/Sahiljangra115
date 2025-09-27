@@ -59,7 +59,11 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sahiljangra115&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Sahiljangra115&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+ 
+  
+  <!-- ⚠️ Important: Replace 'Sahiljangra115' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahiljangra115&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ###
