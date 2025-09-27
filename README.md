@@ -38,15 +38,20 @@
 ###
 
 <p align="center">
-  <!-- Social icons (X/Twitter, Email, LinkedIn, etc.) -->
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" />
+  <a href="mailto:sahil115jangid@gmail.com.com">
+    <img src="gmail.svg" height="32" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://www.linkedin.com/in/sahilkumar119/">
+    <img src="linkedin-rounded-svgrepo-com.svg" height="32" alt="LinkedIn" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://x.com/arch_user_btw">
+    <img src="x.svg" height="32" alt="X" />
+  </a>
+  <a href="https://discord.com/sahiljangid34">
+    <img src="discord.svg" height="32" alt="Discord" />
+  </a>
+  <a href="https://dev.to/sahil_kumar">
+    <img src="devdotto.svg" height="32" alt="dev.to" />
   </a>
 </p>
 
