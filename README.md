@@ -1,8 +1,3 @@
-<!--
-   ╭───────────────────────────────────────────╮
-               <!-- Profile Cover Spacer -->
-   ╰───────────────────────────────────────────╯
--->
 
 <p align="center">
   <img src="https://github.com/Sahiljangra115/Sahiljangra115/blob/main/name.png" width="260" alt="Profile minimalist logo" style="border-radius:16px;">
