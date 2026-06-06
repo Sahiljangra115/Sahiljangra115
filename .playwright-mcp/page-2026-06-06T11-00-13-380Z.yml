@@ -1,0 +1,32 @@
+- generic [ref=e3]:
+  - banner [ref=e5]:
+    - link "← Portfolio" [ref=e6] [cursor=pointer]:
+      - /url: /
+    - generic [ref=e7]: Learn
+  - main [ref=e8]:
+    - heading "Learn, courses by Sahil Kumar" [level=1] [ref=e9]
+    - navigation "Courses" [ref=e10]:
+      - list [ref=e11]:
+        - listitem [ref=e12]:
+          - link "Docker" [ref=e13] [cursor=pointer]:
+            - /url: /learn/docker
+            - generic [ref=e14]: →
+            - text: Docker
+        - listitem [ref=e15]:
+          - link "SQL" [ref=e16] [cursor=pointer]:
+            - /url: /learn/sql
+        - listitem [ref=e17]:
+          - link "Linux" [ref=e18] [cursor=pointer]:
+            - /url: /learn/linux
+        - listitem [ref=e19]:
+          - generic [ref=e20]:
+            - text: Kubernetes
+            - generic [ref=e21]: Soon
+        - listitem [ref=e22]:
+          - generic [ref=e23]:
+            - text: Git
+            - generic [ref=e24]: Soon
+        - listitem [ref=e25]:
+          - generic [ref=e26]:
+            - text: System Design
+            - generic [ref=e27]: Soon
