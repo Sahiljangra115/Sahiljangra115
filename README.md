@@ -144,9 +144,9 @@ Long-form notes on engineering at [**sahilkumar.dev/blog**](https://sahilkumar.d
   <img src="https://streak-stats.demolab.com?user=Sahiljangra115&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8" height="180" alt="contribution streak" />
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahiljangra115&theme=react-dark&bg_color=282a36&color=bd93f9&line=ff79c6&point=f8f8f2&hide_border=true&area=true" width="95%" alt="contribution activity graph" />
-</div>
+</div> -->
 
 ###
 
